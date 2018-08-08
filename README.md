@@ -44,7 +44,6 @@ v1.3<br/>
 
 v1.4<br/>
 没有改任何东西，只是之前的版本在maven中无法下载，1.4之后就可以正常下载了
-资讯地址：https://www.oschina.net/news/96840/xsequence-1-4-released
 
 v1.5<br/>
 新增uuid生成工具类：UUIDUtils.uuid()
