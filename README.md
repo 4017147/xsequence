@@ -25,17 +25,14 @@
 #### 升级日志
 v1.0<br/>
 新加特性：支持DB方式生成序列号<br/>
-使用文档：https://my.oschina.net/u/1271235/blog/1808103<br/>
 更新时间：2018/05/07<br/>
 
 v1.1<br/>
 新加特性：支持Redis方式生成序列号<br/>
-使用文档：https://my.oschina.net/u/1271235/blog/1809437<br/>
 更新时间：2018/05/09<br/>
 
 v1.2<br/>
 新加特性：支持雪花算法方式生成序列号<br/>
-使用文档：https://my.oschina.net/u/1271235/blog/1812305<br/>
 更新时间：2018/05/14<br/>
 
 v1.3<br/>
@@ -146,9 +143,3 @@ sequence = SnowflakeSeqBuilder.create().datacenterId(1).workerId(2).build();
 UUIDUtils.uuid()
 </pre></code>
 
-#### 联系方式
-1. 姓名：徐安
-2. 邮箱:javaandswing@163.com
-3. QQ：349309307
-4. 个人博客：xuanner.com
-5. QQ交流群：813221731
